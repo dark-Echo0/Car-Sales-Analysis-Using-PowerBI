@@ -1,10 +1,11 @@
 # Car Sales Analysis Using PowerBI
 
 ## Preview of the Dashboard
-### Overview Dashboard
-![]()
-### Details Dashboard
-![]()
+
+#### Overview Dashboard
+![](image/OverviewDashboard.png)
+#### Details Dashboard
+![](image/DetailsDashboard.png)
 
 ## Modifications implemented in the dashboard
 
