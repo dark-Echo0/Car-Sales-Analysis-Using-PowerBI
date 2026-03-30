@@ -7,7 +7,7 @@
 #### Details Dashboard
 ![](image/DetailsDashboard.png)
 
-## Modifications implemented in the dashboard
+## Modifications applied in the dashboard
 1. Change the background Theme from Dark Mode (Black) to Modern Dard Mode Color
 2. A condition was added to the KPI cards to dynamically change their color. The card turns green when there is positive growth compared to the previous year or month, and red when there is a decline.
 3. Change the color of visualization.
