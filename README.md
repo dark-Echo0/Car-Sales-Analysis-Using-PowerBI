@@ -7,6 +7,13 @@
 #### Details Dashboard
 ![](image/DetailsDashboard.png)
 
+## Key Insights:
+1. Total Revenue - As of the start of 2023, Total Sales reached $371.19M, representing a robust 23.59% growth over the previous year. This reflects a net increase of $70.84M in total revenue compared to 2022.
+2. Sales Volume -  A total of 13,261 cars have been sold YTD, marking a 24.57% increase over last year.
+3. Average Pricing - Despite a rise in overall revenue, the Average current Year Price stands at $28.0K, representing a slight dip of 0.79% compared to last year. This indicates a shift in sales mix toward affordable models, highlighting a volume-led growth strategy.
+4. Body Style Popularity - The market is heavily dominated by SUVs and Sedans, which together make up more than half of the total sales.
+5. Color Preference - Pale White appears to be the most popular choice, dominating the doughnut chart.
+
 ## Modifications applied in the dashboard
 1. Change the background Theme from Dark Mode (Black) to Modern Dard Mode Color
 2. A condition was added to the KPI cards to dynamically change their color. The card turns green when there is positive growth compared to the previous year or month, and red when there is a decline.
