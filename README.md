@@ -8,6 +8,10 @@
 ![](image/DetailsDashboard.png)
 
 ## Modifications implemented in the dashboard
+1. Change of the Background Theme from Dark Mode (Black) to Modern Dard Mode Color
+2. A condition was added to the KPI cards to dynamically change their color. The card turns green when there is positive growth compared to the previous year or month, and red when there is a decline.
+3. Change the color of visualization.
+4. Add Calendar in the slicer to filter the date.
 
 ## Objective: 
 The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
@@ -44,3 +48,6 @@ The dashboard should provide real-time insights into key performance indicators 
 
 ## Disclaimer
 The procedure was implemented based on the YouTube tutorial **Car Sales Analysis Projects** by **Data Tutorials**. This project is intended for educational purposes only.
+
+## Reference 
+[Power BI Dashboard 2025 | Car Sales Analysis Project | End to End Power BI Tutorial for Beginners](https://youtu.be/uPkemycepLc?si=NhYM72UR_J_zB6EZ)
